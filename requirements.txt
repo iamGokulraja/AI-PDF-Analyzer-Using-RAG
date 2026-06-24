@@ -1,9 +1,7 @@
 streamlit
 pypdf 
-sentence_transformers 
-psycopg2
-pgvector.psycopg2 
+sentence-transformers 
+psycopg2-binary
+python-dotenv
+pgvector
 openai 
-dotenv 
-os
-numpy
