@@ -1,0 +1,11 @@
+streamlit
+pypdf
+sentence-transformers
+psycopg2-binary
+pgvector
+openai
+python-dotenv
+torch
+transformers
+numpy
+os
